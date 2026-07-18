@@ -45,3 +45,10 @@ figures/
 Early conceptual development.
 
 Community feedback is welcome.
+
+## Related Projects
+
+- Mirror Mathematics
+- Device Concepts
+- Resources
+- Open Discussions
