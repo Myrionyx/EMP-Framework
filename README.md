@@ -1,11 +1,3 @@
-
-<p align="center">
-<img src="figures/banner.png" width="100%">
-</p>
-
-
-
-
 # EMP Framework
 
 ## Overview
